@@ -1,5 +1,5 @@
-# Quiz_2_PWEB
- Quiz 2 Pemrograman Berbasis Web A
+# Quiz_2_PWEB <br>
+ Quiz 2 Pemrograman Berbasis Web A <br>
  
- Nama : Riyan Setiyadi Hidayatullah
+ Nama : Riyan Setiyadi Hidayatullah <br>
  Nim : 192410101105
